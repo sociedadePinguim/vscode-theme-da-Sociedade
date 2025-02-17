@@ -1,0 +1,21 @@
+{
+  "name": "sociedade-pinguim-theme",
+  "displayName": "Sociedade-Pinguim-Theme",
+  "description": "Tema da Sociedade Pinguim",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SociedadePinguim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SociedadePinguim-color-theme.json"
+      }
+    ]
+  }
+}
