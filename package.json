@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "SociedadePinguim",
+        "label": "SociedadePinguim-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/SociedadePinguim-color-theme.json"
+        "path": "./themes/SociedadePinguim-Dark.json"
+      },
+      {
+        "label": "SociedadePinguim-Light",
+        "uiTheme": "vs",
+        "path": "./themes/SociedadePinguim-Light.json"
       }
     ]
   }
