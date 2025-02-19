@@ -1,11 +1,13 @@
 {
-  "name": "sociedade-pinguim-theme",
-  "displayName": "Sociedade-Pinguim-Theme",
+  "name": "SociedadePinguim",
+  "displayName": "SociedadePinguim",
   "description": "Tema da Sociedade Pinguim",
+  "publisher": "SociedadePinguim",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
+  "icon": "Avatar-verde.png",
   "categories": [
     "Themes"
   ],
