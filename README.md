@@ -8,11 +8,11 @@ Este tema foi criado especialmente para os membros da **Sociedade Pinguim**, ama
 
 ### Tema Dark
 
-![Tema Dark](https://github.com/sociedadePinguim/vscode-theme-da-Sociedade/blob/main/theme-darck.png?raw=true)
+![theme-dark](https://github.com/user-attachments/assets/fe9326ef-bb38-4a51-a591-e59c34d5f1d0)
 
 ### Tema Light
 
-![Tema Light](https://github.com/sociedadePinguim/vscode-theme-da-Sociedade/blob/main/thema-ligt.png?raw=true)
+![thema-light](https://github.com/user-attachments/assets/70c24b69-8fae-4685-bc51-1270b09c775d)
 
 ## Instalação
 
