@@ -5,14 +5,14 @@ Bem-vindo ao tema da Sociedade Pinguim para o Visual Studio Code! 🎨🧑‍�
 Este tema foi criado especialmente para os membros da **Sociedade Pinguim**, amantes do open source e software livre. Ele está disponível em duas variantes: **Light** e **Dark**, garantindo uma experiência visual agradável, seja durante o dia ou à noite.
 
 ## Capturas de Tela
-
 ### Tema Dark
 
-![theme-dark](https://github.com/user-attachments/assets/fe9326ef-bb38-4a51-a591-e59c34d5f1d0)
+![Tema Dark](https://github.com/sociedadePinguim/vscode-theme-da-Sociedade/blob/main/theme-dark)
 
 ### Tema Light
 
-![thema-light](https://github.com/user-attachments/assets/70c24b69-8fae-4685-bc51-1270b09c775d)
+![Tema Light](https://github.com/sociedadePinguim/vscode-theme-da-Sociedade/blob/main/theme-light)
+
 
 ## Instalação
 
