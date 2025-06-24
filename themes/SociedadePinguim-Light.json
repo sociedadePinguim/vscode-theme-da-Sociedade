@@ -65,11 +65,11 @@
 		"editorGroupHeader.tabsBorder": "#50927a",
 
 		"tab.activeBackground": "#f3f3f3",
-		"tab.activeForeground": "#50927a",
+		"tab.activeForeground": "#223C32",
 		"tab.border": "#50927a",
 		"tab.activeBorder": "#f3f3f3",
 		"tab.inactiveBackground": "#01111d",
-		"tab.inactiveForeground": "#5f7e97",
+		"tab.inactiveForeground": "#50927A",
 		"tab.unfocusedActiveForeground": "#5f7e97",
 		"tab.unfocusedInactiveForeground": "#5f7e97",
 
