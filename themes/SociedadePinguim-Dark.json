@@ -24,7 +24,7 @@
 
 		"progress.background": "#58a285",
 
-        "breadcrumb.foreground": "#A599E9",
+    "breadcrumb.foreground": "#A599E9",
 		"breadcrumb.focusForeground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
 		"breadcrumbPicker.background": "#222831",
